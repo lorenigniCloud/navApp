@@ -1,1 +1,2 @@
-Master React Native Navigation
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
